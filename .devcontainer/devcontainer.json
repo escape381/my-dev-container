@@ -6,7 +6,8 @@
         "vscode": {
             "extensions": [
                 "mhutchie.git-graph",
-                "yzhang.markdown-all-in-one"
+                "yzhang.markdown-all-in-one",
+                "golang.go"
             ]
         }
     },
