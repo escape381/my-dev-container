@@ -1,4 +1,4 @@
-FROM alpine
+FROM golang:1.20.6-alpine3.18
 
 ARG USERNAME=devuser
 ARG USER_UID=1000
