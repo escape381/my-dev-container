@@ -1,5 +1,13 @@
 {
     "build": {
         "dockerfile": "Dockerfile"
-    }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mhutchie.git-graph",
+                "yzhang.markdown-all-in-one"
+            ]
+        }
+    },
 }
